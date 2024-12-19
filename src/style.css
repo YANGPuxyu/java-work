@@ -3,12 +3,12 @@
 @tailwind utilities;
 
 a {
-  color: #4eafa6;
+  color: #000000;
   text-decoration: none;
   animation: all 0.5s ease;
 }
 
 a:hover{
-    color: #98703d;
+    color: #ffffff;
     text-decoration: underline;
 }

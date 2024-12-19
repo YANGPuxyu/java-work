@@ -40,6 +40,9 @@ watch(
       <RouterLink to="/about" class="p-2 hover:bg-slate-500 rounded-lg"
         >关于我们</RouterLink
       >
+      <RouterLink to="/friend" class="p-2 hover:bg-slate-500 rounded-lg"
+        >我的好友</RouterLink
+      >
     </div>
     <template v-if="!refresh">
       <RouterView class="mt-5" />
